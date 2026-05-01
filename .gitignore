@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 数据文件（可选：如果数据文件较大，可以选择忽略）
+# *.xlsx
+# *.xls
+# *.csv
+
+# 输出文件（可选：如果不想提交生成的结果）
+# 标准化数据*.xlsx
+# 变换参数*.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.temp
